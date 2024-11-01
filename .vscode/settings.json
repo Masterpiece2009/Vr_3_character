@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Vr_project_.sln"
+    "dotnet.defaultSolution": "Vr_3_character.sln"
 }
